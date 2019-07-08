@@ -1,6 +1,7 @@
 import React from 'react';
 import logo from './logo.svg';
 import './App.css';
+import Avatar from "@atlaskit/avatar";
 
 function App() {
   return (
